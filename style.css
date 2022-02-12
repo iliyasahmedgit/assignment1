@@ -1,0 +1,93 @@
+﻿*{
+    max-width: 1000px;
+    margin: auto;
+  
+   
+}
+.maindiv{
+    background-color: #F2F2F2;
+    font-family: 'Segoe UI', Tahoma, 'Times New Roman', Times, serif, sans-serif;
+    
+}
+
+.top{
+    padding: 20px;
+    display: flex;
+}
+
+/* first part */
+.firstright{
+   float: left;
+   margin-top: 35px;
+  
+  
+}
+.firstleft{
+    float: right;
+    color: black;
+}
+.ul{
+    padding-top: 50px;
+}
+/* middle part */
+.middle{
+    padding-top: 30px;
+    display: flex;
+}
+.secondright{
+    margin-top: 115px;
+    float: right;
+    margin-left: 45px;
+   max-width: 50%;
+    color: black;
+}
+.secondleft{
+    margin-top: 70px;
+    margin-left: 55px;
+    max-width: 50%;
+}
+/* last h3 part */
+.lasth3{
+    padding-top: 80px;
+    max-width: 50%;
+    margin-left: 70px;
+    color: black;
+    padding-bottom: 30px;
+}
+/* last part */
+.last{
+    display: flex;
+    color: black;
+    
+}
+.last1{
+ 
+    border: 5px solid aliceblue;
+    box-shadow: #F2F2F2;
+    max-width: 30%;
+   
+    height: 400px;
+}
+.last2{
+    
+    border: 5px solid aliceblue;
+    box-shadow: #F2F2F2;
+    max-width: 38%;
+    height: 400px;
+}
+.last3{
+    
+    border: 5px solid aliceblue;
+    box-shadow: 0px 1px 2px solid black;
+    max-width: 30%;
+    height: 400px;
+}
+
+/* footer part */
+.footer{
+    padding-top: 80px;
+    color: black;
+    max-width: 50%;
+    margin-left: 56px;
+    padding-bottom: 30px;
+}
